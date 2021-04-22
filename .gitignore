@@ -2,3 +2,4 @@ bin/
 pyvenv.cfg
 lib/
 .xml
+.idea/vcs.xml
